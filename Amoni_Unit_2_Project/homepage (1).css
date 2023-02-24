@@ -1,0 +1,31 @@
+
+body {
+    background-color: #bdabf2;
+}
+
+.title { 
+    text-align:center;
+    color: aliceblue;
+}
+
+.section {
+    color:white;
+    text-align: center;
+    background-color: rgb(243, 214, 241);
+    margin: 2px;
+}
+
+.list {
+    color: aliceblue;
+    font-size: large;
+}
+
+.amoni {
+    border-radius: 45%;
+    margin-left: 38%;
+}
+
+.ball {
+    border-radius: 40%;
+    margin-left:43%;
+}
